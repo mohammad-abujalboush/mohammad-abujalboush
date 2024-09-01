@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohammad-abujalboush
-- im a senior computer science student
+- Computer Science graduate 2024
   
 - 👀 I’m interested in ...
 - game development (unity)
